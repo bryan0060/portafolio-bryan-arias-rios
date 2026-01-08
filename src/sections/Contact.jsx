@@ -96,15 +96,7 @@ const Contact = () => {
               </div>
             </div>
 
-            <div className="contact-cta">
-              <p className="cta-text">¿Prefieres email?</p>
-              <a 
-                href={`mailto:${PERSONAL_INFO.email}?subject=Contacto desde portafolio`}
-                className="cta-button"
-              >
-                Envíame un correo →
-              </a>
-            </div>
+
           </div>
         </div>
       </div>

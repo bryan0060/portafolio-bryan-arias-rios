@@ -27,6 +27,7 @@ const Navbar = ({ isScrolled }) => {
         >
           <span className="logo-text">Bryan</span>
           <span className="logo-accent">Arias</span>
+          <span className='logo-accent'>Rios</span>
         </Link>
 
         <div className={`navbar-menu ${isMenuOpen ? 'active' : ''}`}>
