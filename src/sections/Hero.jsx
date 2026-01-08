@@ -47,7 +47,7 @@ const Hero = () => {
               <div className="image-glow"></div>
               {/* Placeholder mientras agregas tu foto */}
                 <img 
-                  src="/src/assets/images/profile.jpeg" 
+                  src="/profile.jpeg" 
                   alt={PERSONAL_INFO.name}
                   className="profile-image"
                 />
