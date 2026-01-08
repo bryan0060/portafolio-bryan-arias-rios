@@ -28,7 +28,7 @@ export const HERO_TEXT = {
 export const ABOUT_TEXT = {
   title: "Sobre Mí",
   description: [
-    "Soy Desarrollador de Software Junior y estudiante de Ingeniería Informática, con experiencia práctica en desarrollo frontend y full stack de aplicaciones web y móviles. He trabajado en proyectos reales para clientes, desarrollando soluciones con almacenamiento offline, generación automática de reportes en PDF y despliegues en producción.",
+    "Desarrollador Full Stack Junior con experiencia en proyectos reales, capaz de entregar soluciones completas desde frontend hasta backend.",
     "Manejo tecnologías como React, Angular, TypeScript, JavaScript, Django REST Framework, Firebase, Ionic y FlutterFlow. Me caracterizo por escribir código limpio, ser autodidacta y adaptarme rápidamente a nuevos retos.",
     "De forma paralela, me encuentro en proceso de aprendizaje en áreas como IA Engineering y Data Engineering, con el objetivo de integrar soluciones inteligentes y basadas en datos en proyectos futuros, sin perder el enfoque principal en el desarrollo Full Stack."
   ]

@@ -20,7 +20,7 @@ const Education = () => {
           
           <div className="education-card">
             <div className="education-card-header">
-              <h4 className="education-degree">Ingeniería Informática</h4>
+              <h4 className="education-degree">📚 Ingeniería Informática — Unilasallista (7º semestre)</h4>
               <span className="education-status">En curso</span>
             </div>
             <p className="education-institution">Corporación Universitaria Unilasallista</p>
@@ -44,7 +44,7 @@ const Education = () => {
                 <FaTasks />
               </div>
               <div className="certification-info">
-                <h4 className="certification-name">Scrum Fundamentals Certified</h4>
+                <h4 className="certification-name">📜 Scrum Fundamentals Certified</h4>
                 <p className="certification-issuer">SCRUMstudy – VMEdu</p>
                 <p className="certification-id">ID: 1126202</p>
               </div>

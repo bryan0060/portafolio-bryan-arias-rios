@@ -30,7 +30,9 @@ const Hero = () => {
                 </Button>
               </Link>
               
-              <Button 
+
+              {/* Comentado para futura implementación de momento */}
+              {/*<Button 
                 variant="outline" 
                 size="large" 
                 icon={<FaDownload />}
@@ -39,6 +41,7 @@ const Hero = () => {
               >
                 Descargar CV
               </Button>
+              */}
             </div>
           </div>
 
