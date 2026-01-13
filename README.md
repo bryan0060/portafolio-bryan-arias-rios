@@ -70,32 +70,6 @@ Los archivos optimizados se generarán en la carpeta `dist/`
 npm run preview
 ```
 
-## 🌐 Despliegue
-
-### Vercel (Recomendado)
-
-1. Instala Vercel CLI:
-```bash
-npm install -g vercel
-```
-
-2. Despliega:
-```bash
-vercel
-```
-
-O conecta tu repositorio de GitHub directamente en [vercel.com](https://vercel.com)
-
-### Netlify
-
-1. Build del proyecto:
-```bash
-npm run build
-```
-
-2. Arrastra la carpeta `dist/` a [netlify.com/drop](https://app.netlify.com/drop)
-
-O conecta tu repositorio de GitHub directamente en Netlify.
 
 ## 📁 Estructura del Proyecto
 ```
