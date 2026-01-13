@@ -2,6 +2,8 @@
 
 Portafolio profesional de desarrollador Full Stack Junior, diseñado para destacar proyectos reales, experiencia técnica y habilidades en desarrollo web y móvil.
 
+## Este proyecto se encuentra desplegado en: https://portafolio-bryan-arias.vercel.app/
+
 ## 🚀 Características
 
 - ✨ Diseño moderno y profesional con tema oscuro
@@ -130,7 +132,7 @@ Este proyecto es de uso personal para Bryan Arias Ríos.
 ## 📧 Contacto
 
 - **Email**: bryanrios0060@gmail.com
-- **Whatsapp**: +57 310 8907081
+- **Whatsapp**: [+57 310 8907081](https://wa.link/kgnvhq)
 - **LinkedIn**: [Bryan Arias Ríos](https://www.linkedin.com/in/bryan-arias-rios)
 - **GitHub**: [@bryan0060](https://github.com/bryan0060)
 - **Empresa**: [Noah Technology Solutions](https://noahtechsolutions.com)
