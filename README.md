@@ -130,7 +130,7 @@ Este proyecto es de uso personal para Bryan Arias Ríos.
 ## 📧 Contacto
 
 - **Email**: bryanrios0060@gmail.com
-- **Cellphone**: +57 310 8907081
+- **Cell Number**: +57 310 8907081
 - **LinkedIn**: [Bryan Arias Ríos](https://www.linkedin.com/in/bryan-arias-rios)
 - **GitHub**: [@bryan0060](https://github.com/bryan0060)
 - **Empresa**: [Noah Technology Solutions](https://noahtechsolutions.com)
