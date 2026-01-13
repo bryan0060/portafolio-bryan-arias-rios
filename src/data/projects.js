@@ -1,5 +1,14 @@
 export const PROJECTS = [
   {
+    id: 0,
+    title: "Portafolio Profesional (Este sitio)",
+    description: "Portafolio web personal desarrollado con React y Vite, diseñado con un tema oscuro moderno y totalmente responsive. Incluye animaciones suaves, navegación fluida y secciones optimizadas para destacar proyectos, experiencia y habilidades técnicas.",
+    technologies: ["React", "Vite", "CSS3", "React Icons", "React Scroll"],
+    github: "https://github.com/bryan0060/portafolio-bryan-arias-rios",
+    type: "frontend",
+    featured: true
+  },
+  {
     id: 1,
     title: "EcoApp",
     description: "Aplicación web completa con sistema de autenticación, gestión de datos en tiempo real y base de datos Firebase. Implementa funcionalidades modernas de almacenamiento y sincronización en la nube.",
