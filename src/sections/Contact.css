@@ -235,6 +235,18 @@
   .social-info {
     align-items: center;
   }
+
+  .whatsapp-icon {
+  background: #25D366 !important;
+  color: white !important;
+  border-color: #25D366 !important;
+}
+
+.contact-item:hover .whatsapp-icon {
+  background: #128C7E !important;
+  border-color: #128C7E !important;
+  transform: scale(1.1);
+}
 }
 
 @media (max-width: 480px) {

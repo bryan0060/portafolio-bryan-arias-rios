@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaEnvelope, FaLinkedin, FaGithub, FaMapMarkerAlt, FaGlobe } from 'react-icons/fa';
+import { FaEnvelope, FaLinkedin, FaGithub, FaMapMarkerAlt, FaGlobe, FaWhatsapp } from 'react-icons/fa';
 import { PERSONAL_INFO } from '../data/constants';
 import './Contact.css';
 
@@ -42,6 +42,23 @@ const Contact = () => {
                   <h4 className="contact-label">Email</h4>
                   <a href={`mailto:${PERSONAL_INFO.email}`} className="contact-value contact-link">
                     {PERSONAL_INFO.email}
+                  </a>
+                </div>
+              </div>
+
+              <div className="contact-item">
+                <div className="contact-icon whatsapp-icon">
+                  <FaWhatsapp />
+                </div>
+                <div className="contact-text">
+                  <h4 className="contact-label">WhatsApp</h4>
+                  <a 
+                    href="https://wa.link/kgnvhq" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="contact-value contact-link"
+                  >
+                    {PERSONAL_INFO.phone}
                   </a>
                 </div>
               </div>
@@ -95,7 +112,6 @@ const Contact = () => {
                 </a>
               </div>
             </div>
-
 
           </div>
         </div>
