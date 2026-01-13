@@ -136,4 +136,4 @@ Este proyecto es de uso personal para Bryan Arias Ríos.
 
 ---
 
-Desarrollado con ❤️ por Bryan Arias Ríos
+Desarrollado por Bryan Arias Ríos
