@@ -44,15 +44,6 @@ cd portfolio
 npm install
 ```
 
-3. Agrega tu foto de perfil:
-   - Coloca tu foto en `src/assets/images/profile.jpg`
-
-4. Agrega tu CV:
-   - Coloca tu CV en formato PDF en `public/cv-bryan-arias.pdf`
-
-5. Actualiza tu información personal:
-   - Edita `src/data/constants.js` con tu email y teléfono real
-
 ## 🚀 Uso
 
 ### Desarrollo local
@@ -81,8 +72,7 @@ portfolio/
 │   ├── favicon.ico
 │   └── cv-bryan-arias.pdf
 ├── src/
-│   ├── assets/
-│   │   └── images/
+│   ├── public/
 │   │       └── profile.jpg
 │   ├── components/
 │   │   ├── Navbar.jsx

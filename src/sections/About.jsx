@@ -24,7 +24,7 @@ const About = () => {
 
       <div className="about-highlights">
         <div className="highlight-card animate-scaleIn delay-300">
-          <div className="highlight-icon">💻</div>
+          
           <h3 className="highlight-title">Full Stack</h3>
           <p className="highlight-text">
             Desarrollo completo de aplicaciones web y móviles con arquitectura frontend-backend
@@ -32,7 +32,7 @@ const About = () => {
         </div>
 
         <div className="highlight-card animate-scaleIn delay-400">
-          <div className="highlight-icon">🚀</div>
+          
           <h3 className="highlight-title">Proyectos Reales</h3>
           <p className="highlight-text">
             Experiencia práctica trabajando con clientes y soluciones en producción
@@ -40,7 +40,7 @@ const About = () => {
         </div>
 
         <div className="highlight-card animate-scaleIn delay-500">
-          <div className="highlight-icon">📚</div>
+          
           <h3 className="highlight-title">Aprendizaje Continuo</h3>
           <p className="highlight-text">
             En constante formación en IA Engineering y Data Engineering

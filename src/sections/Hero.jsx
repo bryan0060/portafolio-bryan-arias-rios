@@ -31,24 +31,12 @@ const Hero = () => {
               </Link>
               
 
-              {/* Comentado para futura implementación de momento */}
-              {/*<Button 
-                variant="outline" 
-                size="large" 
-                icon={<FaDownload />}
-                href={PERSONAL_INFO.cv}
-                download
-              >
-                Descargar CV
-              </Button>
-              */}
             </div>
           </div>
 
           <div className="hero-image animate-fadeInRight">
             <div className="image-wrapper">
               <div className="image-glow"></div>
-              {/* Placeholder mientras agregas tu foto */}
                 <img 
                   src="/profile.jpeg" 
                   alt={PERSONAL_INFO.name}
