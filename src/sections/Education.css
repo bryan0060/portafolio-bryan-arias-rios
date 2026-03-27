@@ -104,6 +104,10 @@
   border-top: 1px solid var(--border-color);
 }
 
+.certification-verify{
+  margin-top: 1%;
+}
+
 .certification-header {
   display: flex;
   align-items: flex-start;
