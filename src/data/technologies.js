@@ -20,7 +20,9 @@ import {
   SiMongodb,
   SiVercel,
   SiRender,
-  SiNetlify
+  SiNetlify,
+  SiPostgresql,
+  SiDocker
 } from 'react-icons/si';
 
 export const TECH_STACK = {
@@ -48,7 +50,8 @@ export const TECH_STACK = {
   databases: [
     { name: "Firestore", icon: SiFirebase, color: "#FFCA28" },
     { name: "MySQL", icon: SiMysql, color: "#4479A1" },
-    { name: "MongoDB", icon: SiMongodb, color: "#47A248" }
+    { name: "MongoDB", icon: SiMongodb, color: "#47A248" },
+    { name: "PostgreSQL", icon: SiPostgresql, color: "#336791" }
   ],
   
   tools: [
@@ -56,7 +59,8 @@ export const TECH_STACK = {
     { name: "GitHub", icon: FaGithub, color: "#181717" },
     { name: "Vercel", icon: SiVercel, color: "#000000" },
     { name: "Render", icon: SiRender, color: "#46E3B7" },
-    { name: "Netlify", icon: SiNetlify, color: "#00C7B7" }
+    { name: "Netlify", icon: SiNetlify, color: "#00C7B7" },
+    { name: "Docker", icon: SiDocker, color: "#2496ED" }
   ]
 };
 
