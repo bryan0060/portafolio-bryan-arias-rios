@@ -22,12 +22,16 @@ import {
   SiRender,
   SiNetlify,
   SiPostgresql,
-  SiDocker
+  SiDocker,
+  SiNextdotjs,
+  SiVite
 } from 'react-icons/si';
 
 export const TECH_STACK = {
   frontend: [
     { name: "React", icon: FaReact, color: "#61DAFB" },
+    { name: "Next.js", icon: SiNextdotjs, color: "#4b4b4b" },
+    {name: "Vitejs", icon: SiVite, color: "#646CFF"},
     { name: "Angular", icon: FaAngular, color: "#DD0031" },
     { name: "TypeScript", icon: SiTypescript, color: "#3178C6" },
     { name: "JavaScript", icon: SiJavascript, color: "#F7DF1E" },
@@ -36,7 +40,7 @@ export const TECH_STACK = {
   ],
   
   backend: [
-    { name: "Django REST", icon: SiDjango, color: "#092E20" },
+    { name: "Django REST", icon: SiDjango, color: "#0f553a" },
     { name: "Firebase", icon: SiFirebase, color: "#FFCA28" },
     { name: "Python", icon: FaPython, color: "#3776AB" },
     { name: "Node.js", icon: FaNode, color: "#339933" }
