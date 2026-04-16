@@ -7,7 +7,7 @@ export const PERSONAL_INFO = {
   
   company: {
     name: "Noah Technology Solutions",
-    role: "Founder & Software Developer",
+    role: "Desarrollador fullstack",
     website: "https://noahtechsolutions.com"
   },
   

@@ -44,7 +44,7 @@ const Experience = () => {
 
           <div className="experience-description">
             <p>
-              Como fundador de Noah Technology Solutions, lidero el desarrollo de soluciones 
+              Como Desarrollador fullstack en Noah Technology Solutions, lidero el desarrollo de soluciones 
               tecnológicas personalizadas para clientes, desde la conceptualización hasta el 
               despliegue en producción.
             </p>
