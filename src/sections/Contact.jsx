@@ -63,22 +63,6 @@ const Contact = () => {
                 </div>
               </div>
 
-              <div className="contact-item">
-                <div className="contact-icon">
-                  <FaGlobe />
-                </div>
-                <div className="contact-text">
-                  <h4 className="contact-label">Empresa</h4>
-                  <a 
-                    href={PERSONAL_INFO.company.website} 
-                    target="_blank" 
-                    rel="noopener noreferrer"
-                    className="contact-value contact-link"
-                  >
-                    {PERSONAL_INFO.company.name}
-                  </a>
-                </div>
-              </div>
             </div>
 
             <div className="social-links">

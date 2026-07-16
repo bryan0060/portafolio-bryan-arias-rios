@@ -27,18 +27,6 @@ const Footer = () => {
             </ul>
           </div>
 
-          <div className="footer-section">
-            <h4 className="footer-subtitle">Empresa</h4>
-            <a 
-              href={PERSONAL_INFO.company.website} 
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="company-link"
-            >
-              <FaGlobe />
-              <span>{PERSONAL_INFO.company.name}</span>
-            </a>
-          </div>
 
           <div className="footer-section">
             <h4 className="footer-subtitle">Sígueme</h4>
