@@ -20,11 +20,11 @@ const Education = () => {
           
           <div className="education-card">
             <div className="education-card-header">
-              <h4 className="education-degree">Ingeniería Informática — Unilasallista (7º semestre)</h4>
+              <h4 className="education-degree">Ingeniería Informática — Unilasallista (8º semestre)</h4>
               <span className="education-status">En curso</span>
             </div>
             <p className="education-institution">Corporación Universitaria Unilasallista</p>
-            <p className="education-detail">Séptimo semestre</p>
+            <p className="education-detail">Octavo semestre</p>
             <p className="education-description">
               Formación integral en desarrollo de software, arquitectura de sistemas, 
               bases de datos y metodologías de desarrollo ágil.
