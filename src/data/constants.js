@@ -7,8 +7,7 @@ export const PERSONAL_INFO = {
   
   company: {
     name: "Noah Technology Solutions",
-    role: "Desarrollador fullstack",
-    website: "https://noahtechsolutions.com"
+    role: "Desarrollador Full Stack",
   },
   
   social: {

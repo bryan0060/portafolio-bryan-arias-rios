@@ -37,23 +37,23 @@ const Experience = () => {
             </div>
             <div className="experience-info">
               <h3 className="experience-position">{PERSONAL_INFO.company.role}</h3>
-              <h4 className="experience-company">{PERSONAL_INFO.company.name} (<a href={PERSONAL_INFO.company.website}>{PERSONAL_INFO.company.website}</a>)</h4>
+              <h4 className="experience-company">{PERSONAL_INFO.company.name} <a href={PERSONAL_INFO.company.website}>{PERSONAL_INFO.company.website}</a></h4>
               <p className="experience-date">2023 - Presente</p>
             </div>
           </div>
 
           <div className="experience-description">
             <p>
-              Como Desarrollador fullstack en Noah Technology Solutions, lidero el desarrollo de soluciones 
-              tecnológicas personalizadas para clientes, desde la conceptualización hasta el 
+              Como Desarrollador fullstack en Noah Technology Solutions, lidero el desarrollo de soluciones
+              tecnológicas personalizadas para clientes, desde la conceptualización hasta el
               despliegue en producción.
             </p>
           </div>
 
           <div className="responsibilities-grid">
             {responsibilities.map((item, index) => (
-              <div 
-                key={index} 
+              <div
+                key={index}
                 className="responsibility-card animate-scaleIn"
                 style={{ animationDelay: `${0.2 + index * 0.1}s` }}
               >
@@ -69,9 +69,12 @@ const Experience = () => {
             <ul className="skills-list">
               <li>Desarrollo de sistemas Full Stack con arquitectura frontend-backend separada</li>
               <li>Implementación de almacenamiento offline y sincronización de datos</li>
-              <li>Generación automática de reportes en PDF</li>
-              <li>Aplicación de metodología ágil Scrum en todos los proyectos</li>
-              <li>Trabajo con entregas iterativas y mejora continua</li>
+              <li>Gestion de la persistencia y modelado de datos en bases de datos relacionales (PostgreSQL / MySQL),
+                optimizando consultas para asegurar la disponibilidad de la información.
+              </li>
+              <li>Uso de metodologías ágiles (Scrum) para la gestión e itineración de entregables, colaborando mediante
+                control de versiones en Git/GitHub.
+              </li>
             </ul>
           </div>
         </div>
